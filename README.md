@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/diya1909/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/diya1909/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 ## Hash Table
 |  |
@@ -21,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
