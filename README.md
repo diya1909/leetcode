@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/diya1909/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/diya1909/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/diya1909/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/diya1909/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/diya1909/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/diya1909/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
