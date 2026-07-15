@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/diya1909/leetcode/tree/master/0263-ugly-number) |
 | [2427-number-of-common-factors](https://github.com/diya1909/leetcode/tree/master/2427-number-of-common-factors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 ## String
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/diya1909/leetcode/tree/master/2427-number-of-common-factors) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
