@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/diya1909/leetcode/tree/master/0011-container-with-most-water) |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/diya1909/leetcode/tree/master/1260-shift-2d-grid) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/diya1909/leetcode/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 ## Matrix
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/diya1909/leetcode/tree/master/1260-shift-2d-grid) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/diya1909/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
