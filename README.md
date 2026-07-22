@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/diya1909/leetcode/tree/master/0006-zigzag-conversion) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2490-circular-sentence](https://github.com/diya1909/leetcode/tree/master/2490-circular-sentence) |
+| [3110-score-of-a-string](https://github.com/diya1909/leetcode/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/diya1909/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
