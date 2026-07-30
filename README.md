@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/diya1909/leetcode/tree/master/0263-ugly-number) |
 | [2427-number-of-common-factors](https://github.com/diya1909/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/diya1909/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/diya1909/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/diya1909/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3536-maximum-product-of-two-digits](https://github.com/diya1909/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diya1909/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/diya1909/leetcode/tree/master/0006-zigzag-conversion) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2490-circular-sentence](https://github.com/diya1909/leetcode/tree/master/2490-circular-sentence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/diya1909/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/diya1909/leetcode/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/diya1909/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/diya1909/leetcode/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/diya1909/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
