@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/diya1909/leetcode/tree/master/0263-ugly-number) |
+| [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
 | [2427-number-of-common-factors](https://github.com/diya1909/leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/diya1909/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/diya1909/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/diya1909/leetcode/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/diya1909/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/diya1909/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
