@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/diya1909/leetcode/tree/master/0011-container-with-most-water) |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
+| [0704-binary-search](https://github.com/diya1909/leetcode/tree/master/0704-binary-search) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/diya1909/leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/diya1909/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
