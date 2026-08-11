@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/diya1909/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/diya1909/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/diya1909/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/diya1909/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/diya1909/leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/diya1909/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/diya1909/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/diya1909/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/diya1909/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
 |  |
 | ------- |
