@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/diya1909/leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/diya1909/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
+| [1539-kth-missing-positive-number](https://github.com/diya1909/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/diya1909/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/diya1909/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/diya1909/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/diya1909/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/diya1909/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Ternary Search
 |  |
 | ------- |
