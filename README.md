@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/diya1909/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/diya1909/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/diya1909/leetcode/tree/master/0263-ugly-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/diya1909/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/diya1909/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diya1909/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/diya1909/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya1909/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/diya1909/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/diya1909/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
