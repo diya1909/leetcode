@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/diya1909/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/diya1909/leetcode/tree/master/1406-stone-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/diya1909/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/diya1909/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/diya1909/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/diya1909/leetcode/tree/master/0202-happy-number) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/diya1909/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/diya1909/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/diya1909/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/diya1909/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
