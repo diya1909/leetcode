@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/diya1909/leetcode/tree/master/0006-zigzag-conversion) |
 | [0890-find-and-replace-pattern](https://github.com/diya1909/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diya1909/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/diya1909/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2490-circular-sentence](https://github.com/diya1909/leetcode/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/diya1909/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/diya1909/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diya1909/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/diya1909/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
